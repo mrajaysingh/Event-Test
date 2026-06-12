@@ -380,4 +380,5 @@ This project is proprietary to ORYZENE Event Management.
 
 Built with ❤️ by ORYZENE | "Turning Every Occasion Into an Unforgettable Experience"
 #   E v e n t  
+ #   E v e n t  
  
